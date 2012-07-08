@@ -12,15 +12,15 @@ alternate_language_text: English
 
 ## Samstag 21. Juli und Sonntag 22. Juli<br /> <span class="subtitle">+ Kennenlerntreffen am Freitagabend, den  20. Juli</span>
 
-**Wolltest Du schon immer wissen, wie man mit dem Programmieren anfängt?** Wir laden ein zu einer spielerischen Einführung in die Welt des Programmierens, ein ganzes Wochenende lang. Wir sind eine Gruppe von freundlicher ProgrammiererInnen aus Berlin, die ihre Begeisterung an Hobby und Arbeit mit euch teilen möchten.
+**Wolltest Du schon immer wissen, wie man mit dem Programmieren anfängt?** Wir laden ein zu einer spielerischen Einführung in die Welt des Programmierens, ein ganzes Wochenende lang. Wir sind eine Gruppe von freundlichen ProgrammiererInnen aus Berlin, die ihre Begeisterung an Hobby und Arbeit mit euch teilen möchten.
 
-In einem Mitmach-Workshop wollen wir Euch das Programmieren näherbringen. Als Beispiel benutzen wir die Sprache JavaScript, die das ganze Web am laufen hält.
+In einem Mitmach-Workshop wollen wir Euch das Programmieren näherbringen. Als Beispiel benutzen wir die Sprache JavaScript, die das ganze Web am Laufen hält.
 
 Wir sprechen DEUTSCH und/oder ENGLISCH.
 
-**Was Du benötigst:** Bring’ deinen Laptop mit (oder sag Bescheid, wenn Du einen brauchst) und sei einfach neugierig, wie das Programmieren und Websites funktionieren. Das ganze Wochenende ist kostenfrei. Jeder und jede ist willkommen!
+**Was Du benötigst:** Bring’ Deinen Laptop mit (oder sag Bescheid, wenn Du einen brauchst) und sei einfach neugierig, wie das Programmieren und Websites funktionieren. Das ganze Wochenende ist kostenfrei. Jeder und jede ist willkommen!
 
-## → [Melde dich jetzt an! Die Teilnehmeplätze sind begrenzt.](https://docs.google.com/spreadsheet/viewform?formkey=dFdOY0NHNDRlc2dIbDF2YW55UWNEYmc6MQ)
+## → [Melde Dich jetzt an! Die Teilnahmeplätze sind begrenzt.](https://docs.google.com/spreadsheet/viewform?formkey=dFdOY0NHNDRlc2dIbDF2YW55UWNEYmc6MQ)
 
 ## Treffpunkt
 
