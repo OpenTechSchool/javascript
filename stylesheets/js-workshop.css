@@ -7,7 +7,12 @@ body {
 .column {
   width: 620px;
   margin: 20px auto;
+  padding-top: 3em;
   position: relative;
+}
+.announcement {
+  background-color: yellow;
+  padding: 20px;
 }
 #language_link {
   position: absolute;
