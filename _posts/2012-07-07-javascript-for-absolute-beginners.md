@@ -1,7 +1,7 @@
 ---
 layout: js-workshop
 title: JavaScript for Absolute Beginners
-permalink: none
+permalink: javascript-fuer-absolute-beginner.html
 alternate_language_link: ./javascript-fuer-absolute-beginner.html
 alternate_language_text: Deutsch
 ---
