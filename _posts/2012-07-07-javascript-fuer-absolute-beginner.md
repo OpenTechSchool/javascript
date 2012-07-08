@@ -6,6 +6,8 @@ alternate_language_link: ./javascript-for-absolute-beginners.html
 alternate_language_text: English
 ---
 
+<div class="announcement">Tut uns leid! Alle Plätze sind bereits vergeben. Du kannst deinen Namen aber <a href="https://docs.google.com/spreadsheet/viewform?formkey=dFdOY0NHNDRlc2dIbDF2YW55UWNEYmc6MQ">auf die Warteliste setzen</a>, damit wir dich über zukünftige Workshops informieren können.</div>
+
 # {{ page.title }} <span class="highlight">UMSONST</span>
 
 <h1 class="subtitle">Ein <strong>Wochenend-Workshop</strong> für Nicht-ProgrammiererInnen</h1>
@@ -20,7 +22,9 @@ Wir sprechen DEUTSCH und/oder ENGLISCH.
 
 **Was Du benötigst:** Bring’ Deinen Laptop mit (oder sag Bescheid, wenn Du einen brauchst) und sei einfach neugierig, wie das Programmieren und Websites funktionieren. Das ganze Wochenende ist kostenfrei. Jeder und jede ist willkommen!
 
-## → [Melde Dich jetzt an! Die Teilnahmeplätze sind begrenzt.](https://docs.google.com/spreadsheet/viewform?formkey=dFdOY0NHNDRlc2dIbDF2YW55UWNEYmc6MQ)
+## → <span class="highlight">AUSGEBUCHT</span> <span style="text-decoration: line-through; color: #999;">Melde Dich jetzt an! Die Teilnahmeplätze sind begrenzt.</span>
+
+Tut uns leid! Alle Plätze sind bereits vergeben. Du kannst deinen Namen aber [auf die Warteliste setzen](https://docs.google.com/spreadsheet/viewform?formkey=dFdOY0NHNDRlc2dIbDF2YW55UWNEYmc6MQ), damit wir dich über zukünftige Workshops informieren können.
 
 ## Treffpunkt
 

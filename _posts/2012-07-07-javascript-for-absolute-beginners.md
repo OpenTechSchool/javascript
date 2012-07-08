@@ -6,6 +6,8 @@ alternate_language_link: ./javascript-fuer-absolute-beginner.html
 alternate_language_text: Deutsch
 ---
 
+<div class="announcement">Sorry! All seats are already taken. You can however <a href="https://docs.google.com/spreadsheet/viewform?formkey=dFdOY0NHNDRlc2dIbDF2YW55UWNEYmc6MQ">put your name on the waiting list</a>, so that we can inform you about future workshops.</div>
+
 # {{ page.title }} <span class="highlight">FREE</span>
 
 <h1 class="subtitle">A fun, hands-on <strong>weekend workshop</strong> for non-programmers to learn the basics</h1>
@@ -18,12 +20,11 @@ We have prepared a hands-on workshop for learning programming using JavaScript, 
 
 We speak GERMAN and/or ENGLISH.
 
-**What you need:** Bring your laptop (or let
-us know you need one) and a curiosity about
-programming and how web sites work. The entire
-weekend is free. All welcome.
+**What you need:** Bring your laptop (or let us know you need one) and a curiosity about programming and how web sites work. The entire weekend is free. All welcome.
 
-## → [Register today! Spots are limited](https://docs.google.com/spreadsheet/viewform?formkey=dFdOY0NHNDRlc2dIbDF2YW55UWNEYmc6MQ)
+## → <span class="highlight">FULLY BOOKED!</span> <span style="text-decoration: line-through; color: #999;">Register today! Spots are limited</span>
+
+Sorry! All seats are already taken. You can however [put your name on the waiting list](https://docs.google.com/spreadsheet/viewform?formkey=dFdOY0NHNDRlc2dIbDF2YW55UWNEYmc6MQ), so that we can inform you about future workshops.
 
 ## Location
 
