@@ -1,0 +1,67 @@
+Are you excited about learning programming with JavaScript this weekend? We're excited too! Here again is the schedule, the address, plus more details what what the weekend will be like.
+
+See you soon!
+
+(If you can't come after all, please let us know by email: team@opentechschool.org)
+
+Schedule:
+
+    Meet & Greet + Install Party:
+    Friday July 20, starting at 19:00
+
+    2-Day Workshop:
+    Saturday July 21, 10:00 - 18:00
+    Sunday July 22, 10:00 - 18:00
+
+Where:
+
+    co.up (Adalbertstr. 7-8, 3th Floor, U1/U8 Kottbusser Tor)
+    In the Hinterhof. Look for the yellow signs :)
+    Google Map: http://bit.ly/KCv6rW
+
+What to do before: Install Chrome and Sublime Text 2 on your laptop
+What to bring: Laptop, food & enthusiasm
+More information: http://js.opentechschool.org/
+
+Installing Chrome and Sublime Text 2:
+
+To keep things simple, we'll all use the same web browser, Chrome, and the same text editor, Sublime Text 2. If you have *any* questions or problems, we are here to help! Bring your laptop to the Meet & Greet, and we will help you to with installation.
+
+You can download Chrome here:
+https://www.google.com/intl/en/chrome/browser/
+
+You can download Sublime Text 2 here:
+http://www.sublimetext.com/2
+
+
+Event Details:
+
+Meet & Greet + Install Party
+with pizza and beer
+Friday July 20, 19:00
+
+Not only can you sort out installation problems, but you can meet and mingle with other JavaScript-fanatics, the coaches and the organizers. The party and the workshop are the same location.
+
+
+2-Day Workshop
+Saturday July 21, 10:00 - 18:00
+Sunday July 22, 10:00 - 18:00
+
+We'll begin with an introduction and then we'll form small groups of 1-2 coaches for every 3-4 students. We will group you with people of the same experience level.
+
+The core part of the workshop is planned until 18:00 each day. However, we want to keep things flexible. That means it may last longer. Or if you have to leave earlier, that's also okay.
+
+Food and Drinks:
+
+There are places to eat and a Kaisers nearby, but it'd would be awesome if we also had a little buffet, and everyone who can contribute brought some of their favorite snacks to share. Feel free to bring anything you like: fruits, veggies, salad, bread, cookies, nuts, etc.
+
+At co.up you can buy beverages for €1 per bottle. But of course, you're free to bring your own drinks!
+
+Other than that, just bring your laptop, your power cord and lots of enthusiasm.
+You don't need anything more :)
+
+We are looking forward to meeting you!
+
+Tiffany Conroy, Jan Lehnardt, Ben Kampmann
+
+OpenTechSchool
