@@ -14,22 +14,6 @@ alternate_language_text: Deutsch
 
 **Have you ever wanted to learn the basics of programming?** Then join us for a weekend of playful coding! A friendly group of Berlin programmers are excited about sharing their joy of programming with you.
 
-We have prepared a hands-on workshop for learning programming using JavaScript, the language that powers the web.---
-layout: js-workshop
-title: JavaScript for Absolute Beginners
-permalink: index.html
-alternate_language_link: ./javascript-fuer-absolute-beginner.html
-alternate_language_text: Deutsch
----
-
-# {{ page.title }} <span class="highlight">FREE</span>
-
-<h1 class="subtitle">A fun, hands-on <strong>weekend workshop</strong> for non-programmers to learn the basics</h1>
-
-## Saturday October 13 and Sunday October 14<br /> <span class="subtitle">+ Meet &amp; Greet on the evening of Friday October 12</span>
-
-**Have you ever wanted to learn the basics of programming?** Then join us for a weekend of playful coding! A friendly group of Berlin programmers are excited about sharing their joy of programming with you.
-
 We have prepared a hands-on workshop for learning programming using JavaScript, the language that powers the web.
 
 We speak GERMAN and/or ENGLISH.
