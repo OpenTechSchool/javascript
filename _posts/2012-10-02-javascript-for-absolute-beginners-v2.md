@@ -35,21 +35,3 @@ co.up, Berlin Coworking Space<br />
 --------------------
 
 Are you interested in programming but can’t attend this workshop? Or is there is another language you would prefer to learn? Already know how to program and want to be a tutor? [OpenTechSchool](http://opentechschool.org) is organizing other workshops, events, and groups.
-
-
-We speak GERMAN and/or ENGLISH.
-
-**What you need:** Bring your laptop (or let us know you need one) and a curiosity about programming and how web sites work. The entire weekend is free. All welcome.
-
-## [Register today! Spots are limited](http://www.meetup.com/opentechschool-berlin/events/84329032/?action=detail&eventId=84329032)
-
-
-## Location
-
-co.up, Berlin Coworking Space<br />
-[Adalbertstr. 7-8, 10999 Berlin](https://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=Adalbertstra%C3%9Fe+7,+10999+Berlin,+Germany&sll=52.549636,13.666992&sspn=0.901874,1.851196&ie=UTF8&hq=&hnear=Adalbertstra%C3%9Fe+7,+Kreuzberg+10999+Berlin,+Germany&z=16)<br />
-[http://co-up.de/](http://co-up.de/)
-
---------------------
-
-Are you interested in programming but can’t attend this workshop? Or is there is another language you would prefer to learn? Already know how to program and want to be a tutor? The [Open Tech School of Berlin](http://opentechschool.org) is organizing other workshops, events, and groups.
