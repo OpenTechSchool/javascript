@@ -67,3 +67,46 @@ p {
   padding-bottom: 11pt;
 }
 
+
+
+/* Schedule */
+pre {
+   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+ }
+div.column.left {
+  margin-top: 0;
+  float: left;
+  width: 290px;
+}
+div.column.right {
+  margin-top: 0;
+  float: right;
+  width: 290px;
+}
+#callforaction {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+}
+#callforcoaches,
+#callforstudents {
+  width: 280px;
+  float: left;
+  padding: 6px 12px 12px;
+  background: #085987;
+  color: rgb(205, 221, 231);
+}
+#callforcoaches {
+  margin-right: 12px;
+}
+#callforaction a {
+  color: rgb(205, 221, 231);
+  text-decoration: underline;
+}
+#callforaction strong {
+  color: #fff;
+}
+.column {
+  padding-top: 5em;
+}
