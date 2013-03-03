@@ -66,7 +66,9 @@ p {
   margin:0;
   padding-bottom: 11pt;
 }
-
+a {
+  word-wrap: break-word;
+}
 
 
 /* Schedule */
