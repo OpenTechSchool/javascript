@@ -1,7 +1,7 @@
 ---
 layout: js-workshop
 title: JavaScript für Absolute Beginner
-permalink: javascript-fuer-absolute-beginner-v2.html
+permalink: javascript-fuer-absolute-beginner-v3.html
 alternate_language_link: ./index.html
 alternate_language_text: English
 ---
@@ -10,7 +10,7 @@ alternate_language_text: English
 
 <h1 class="subtitle">Ein <strong>Wochenend-Workshop</strong> für Nicht-ProgrammiererInnen</h1>
 
-## Samstag 13. Oktober und Sonntag 14. Oktober<br /> <span class="subtitle">+ Kennenlerntreffen am Freitagabend, den  12. Oktober</span>
+## Samstag 26. April und Sonntag 27. April<br /> <span class="subtitle">+ Kennenlerntreffen am Freitagabend, den  25. April</span>
 
 **Wolltest Du schon immer wissen, wie man mit dem Programmieren anfängt?** Wir laden ein zu einer spielerischen Einführung in die Welt des Programmierens, ein ganzes Wochenende lang. Wir sind eine Gruppe von freundlichen ProgrammiererInnen aus Berlin, die ihre Begeisterung an Hobby und Arbeit mit euch teilen möchten.
 
@@ -23,15 +23,15 @@ Wir sprechen DEUTSCH und/oder ENGLISCH.
 
 ## [→ Melde dich jetzt an!](http://www.meetup.com/opentechschool-berlin/events/114138122/)
 
-Die Anzahl der Teilnehmer ist begrenzt. Weitere Informationen zum Ablauf kannst du dem [Programm](schedule-v2.html) entnehmen.
+Die Anzahl der Teilnehmer ist begrenzt. Weitere Informationen zum Ablauf kannst du dem [Programm](schedule-v3.html) entnehmen.
 
 <div class="announcement">Du beherrschst JavaScript? Wir suchen noch <strong>Coaches</strong> die uns bei diesem Event unterstützen. Trete unserem <a href="https://groups.google.com/a/opentechschool.org/forum/?fromgroups=#!forum/coaches.js">Email-Verteiler</a> bei, um auf dem Laufenden zu bleiben!</div>
 
 ## Treffpunkt
 
-co.up, Berlin Coworking Space<br />
-[Adalbertstr. 7-8, 10999 Berlin](https://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=Adalbertstra%C3%9Fe+7,+10999+Berlin,+Germany&sll=52.549636,13.666992&sspn=0.901874,1.851196&ie=UTF8&hq=&hnear=Adalbertstra%C3%9Fe+7,+Kreuzberg+10999+Berlin,+Germany&z=16)<br />
-[http://co-up.de/](http://co-up.de/)
+Immobilien Scout GmbH<br />
+[Andreasstraße 10, 10243 Berlin](https://maps.google.com/maps?q=Immobilien+Scout+GmbH,+Andreasstra%C3%9Fe+10,+10243+Berlin)<br />
+[http://immobilienscout24.de](http://immobilienscout24.de)
 
 --------------------
 

@@ -2,7 +2,7 @@
 layout: js-workshop
 title: JavaScript for Absolute Beginners
 permalink: index.html
-alternate_language_link: ./javascript-fuer-absolute-beginner-v2.html
+alternate_language_link: ./javascript-fuer-absolute-beginner-v3.html
 alternate_language_text: Deutsch
 ---
 
@@ -10,7 +10,7 @@ alternate_language_text: Deutsch
 
 <h1 class="subtitle">A fun, hands-on <strong>weekend workshop</strong> for non-programmers to learn the basics</h1>
 
-## Saturday October 13 and Sunday October 14<br /> <span class="subtitle">+ Meet &amp; Greet on the evening of Friday October 12</span>
+## Saturday April 26 and Sunday April 26<br /> <span class="subtitle">+ Meet &amp; Greet on the evening of Friday April 25</span>
 
 **Have you ever wanted to learn the basics of programming?** Then join us for a weekend of playful coding! A friendly group of Berlin programmers are excited about sharing their joy of programming with you.
 
@@ -22,15 +22,15 @@ We speak GERMAN and/or ENGLISH.
 
 ## [→ Register today! ](http://www.meetup.com/opentechschool-berlin/events/114138122/)
 
-Spots are limited. For more information, have a look at the [schedule](schedule-v2.html).
+Spots are limited. For more information, have a look at the [schedule](schedule-v3.html).
 
 <div class="announcement">Are you interested in <strong>coaching</strong>? We are still looking for people to help out at the event! Please join the <a href="https://groups.google.com/a/opentechschool.org/forum/?fromgroups=#!forum/coaches.js">JS Coaches mailing list</a> to get in touch.</div>
 
 ## Location
 
-co.up, Berlin Coworking Space<br />
-[Adalbertstr. 7-8, 10999 Berlin](https://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=Adalbertstra%C3%9Fe+7,+10999+Berlin,+Germany&sll=52.549636,13.666992&sspn=0.901874,1.851196&ie=UTF8&hq=&hnear=Adalbertstra%C3%9Fe+7,+Kreuzberg+10999+Berlin,+Germany&z=16)<br />
-[http://co-up.de/](http://co-up.de/)
+Immobilien Scout GmbH<br />
+[Andreasstraße 10, 10243 Berlin](https://maps.google.com/maps?q=Immobilien+Scout+GmbH,+Andreasstra%C3%9Fe+10,+10243+Berlin)<br />
+[http://immobilienscout24.de](http://immobilienscout24.de)
 
 --------------------
 
