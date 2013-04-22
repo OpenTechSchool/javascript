@@ -10,7 +10,7 @@ alternate_language_text: English
 
 <h1 class="subtitle">Ein <strong>Wochenend-Workshop</strong> für Nicht-ProgrammiererInnen</h1>
 
-## Samstag 26. April und Sonntag 27. April<br /> <span class="subtitle">+ Kennenlerntreffen am Freitagabend, den  25. April</span>
+## Samstag 27. April und Sonntag 28. April<br /> <span class="subtitle">+ Kennenlerntreffen am Freitagabend, den  26. April</span>
 
 **Wolltest Du schon immer wissen, wie man mit dem Programmieren anfängt?** Wir laden ein zu einer spielerischen Einführung in die Welt des Programmierens, ein ganzes Wochenende lang. Wir sind eine Gruppe von freundlichen ProgrammiererInnen aus Berlin, die ihre Begeisterung an Hobby und Arbeit mit euch teilen möchten.
 

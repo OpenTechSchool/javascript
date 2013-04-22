@@ -10,7 +10,7 @@ alternate_language_text: Deutsch
 
 <h1 class="subtitle">A fun, hands-on <strong>weekend workshop</strong> for non-programmers to learn the basics</h1>
 
-## Saturday April 26 and Sunday April 26<br /> <span class="subtitle">+ Meet &amp; Greet on the evening of Friday April 25</span>
+## Saturday April 27 and Sunday April 28<br /> <span class="subtitle">+ Meet &amp; Greet on the evening of Friday April 26</span>
 
 **Have you ever wanted to learn the basics of programming?** Then join us for a weekend of playful coding! A friendly group of Berlin programmers are excited about sharing their joy of programming with you.
 
