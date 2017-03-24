@@ -2,7 +2,7 @@
 layout: js-workshop
 title: JavaScript für Absolute Beginner
 permalink: javascript-fuer-absolute-beginner-v3.html
-alternate_language_link: ./index.html
+alternate_language_link: ./javascript-for-absolute-beginners-v3.html
 alternate_language_text: English
 ---
 
